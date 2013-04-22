@@ -1,0 +1,5 @@
+D:\Weather\Weather.Api\Weather.Api\bin\Weather.Api.dll
+D:\Weather\Weather.Api\Weather.Api\bin\Weather.Api.pdb
+D:\Weather\Weather.Api\Weather.Api\obj\Release\Weather.Api.csprojResolveAssemblyReference.cache
+D:\Weather\Weather.Api\Weather.Api\obj\Release\Weather.Api.dll
+D:\Weather\Weather.Api\Weather.Api\obj\Release\Weather.Api.pdb
