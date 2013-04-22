@@ -1,0 +1,4 @@
+H:\GitWeather\Weather\Weather.Api\Weather.Api\bin\Weather.Api.dll
+H:\GitWeather\Weather\Weather.Api\Weather.Api\bin\Weather.Api.pdb
+H:\GitWeather\Weather\Weather.Api\Weather.Api\obj\Debug\Weather.Api.dll
+H:\GitWeather\Weather\Weather.Api\Weather.Api\obj\Debug\Weather.Api.pdb
